@@ -33,7 +33,7 @@
       <div class="border-t border-white/8">
         <div class="max-w-7xl mx-auto px-5 sm:px-8 py-6 flex flex-col sm:flex-row justify-between gap-3 text-xs text-muted font-mono">
           <span>© <span data-year></span> Pratap Chakraborty. All rights reserved.</span>
-          <span>Built with Tailwind · Coded with care.</span>
+          <span>Hosted by Hostingson.</span>
         </div>
       </div>
     </footer>

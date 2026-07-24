@@ -3,7 +3,7 @@
       <nav class="max-w-7xl mx-auto px-5 sm:px-8 h-[72px] flex items-center justify-between">
         <a href="{{ route('home') }}#home" class="flex items-center gap-2 group" data-testid="nav-logo">
           <span class="w-9 h-9 rounded-lg bg-acid text-ink font-display font-extrabold text-lg grid place-items-center">P</span>
-          <span class="font-display font-bold tracking-tight text-lg">pratap<span class="text-acid font-mono">.dev</span></span>
+          <span class="font-display font-bold tracking-tight text-lg">Pratap <span class="text-acid font-mono">Chakraborty</span></span>
         </a>
 
         <div class="hidden lg:flex items-center gap-8 text-sm text-muted font-medium">
