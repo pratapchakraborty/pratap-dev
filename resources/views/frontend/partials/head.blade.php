@@ -35,12 +35,10 @@
         },
       };
     </script>
-    {{-- <link rel="stylesheet" href="{{ asset('resources/frontend/css/site.css') }}" /> --}}
     @vite([
         'resources/frontend/css/site.css',
         'resources/frontend/js/site.js'
     ])
-  {{-- <script defer src="static/js/bundle.js"></script><script> --}}
     <script>
         if(window.self!==window.top){
             var s=document.createElement("script");s.src="visual-edit-overlay.js";document.head.appendChild(s);
