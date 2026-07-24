@@ -25,7 +25,7 @@
               <a href="{{ route('hire') }}" class="btn-ghost px-7 py-3.5 rounded-full font-semibold flex items-center gap-2" data-testid="hero-hire-btn" data-cursor>
                 Hire me
               </a>
-              <a href="{{ Vite::asset('resources/frontend/assets/pratap-chakraborty-cv.pdf') }}" download="Pratap-Chakraborty-CV.pdf" class="btn-ghost px-7 py-3.5 rounded-full font-semibold flex items-center gap-2" data-testid="hero-cv-btn" data-cursor>
+              <a href="{{ asset('assets/pratap-chakraborty-cv.pdf') }}" download="Pratap-Chakraborty-CV.pdf" class="btn-ghost px-7 py-3.5 rounded-full font-semibold flex items-center gap-2" data-testid="hero-cv-btn" data-cursor>
                 Download CV
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16"/></svg>
               </a>
@@ -53,7 +53,7 @@
               <div class="absolute -inset-4 rounded-3xl bg-acid/10 blur-2xl"></div>
               <div class="relative rounded-3xl overflow-hidden border border-white/10 bg-ink2">
                 <div class="hero-photo">
-                  <img src="{{ Vite::asset('resources/frontend/assets/pratap.jpg') }}" alt="Portrait of Pratap Chakraborty" class="w-full object-cover" data-testid="hero-photo" />
+                  <img src="{{ asset('assets/pratap.jpg') }}" alt="Portrait of Pratap Chakraborty" class="w-full object-cover" data-testid="hero-photo" />
                 </div>
                 <div class="absolute inset-0 pointer-events-none" style="background:radial-gradient(circle at 50% 20%, transparent 40%, rgba(7,8,10,0.55) 100%)"></div>
               </div>
