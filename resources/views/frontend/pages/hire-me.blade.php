@@ -4,14 +4,16 @@
 
 @section('content')
 
-@include('frontend.sections.hire-me.hero')
+<main class="relative z-10 pt-36 pb-24">
+    @include('frontend.sections.hire-me.hero')
 
-@include('frontend.sections.hire-me.contact-card')
+    @include('frontend.sections.hire-me.contact-card')
 
-@include('frontend.sections.hire-me.contact-form')
+    @include('frontend.sections.hire-me.contact-form')
 
-@include('frontend.sections.hire-me.services')
+    @include('frontend.sections.hire-me.services')
 
-@include('frontend.sections.hire-me.social')
+    @include('frontend.sections.hire-me.social')
+</main>
 
 @endsection

@@ -4,14 +4,16 @@
 
 @section('content')
 
-@include('frontend.sections.protfolio.hero')
+<main class="relative z-10 pt-36 pb-24">
+    @include('frontend.sections.protfolio.hero')
 
-@include('frontend.sections.protfolio.projectone')
+    @include('frontend.sections.protfolio.projectone')
 
-@include('frontend.sections.protfolio.projecttwo')
+    @include('frontend.sections.protfolio.projecttwo')
 
-@include('frontend.sections.protfolio.projectthree')
+    @include('frontend.sections.protfolio.projectthree')
 
-@include('frontend.sections.protfolio.cta')
+    @include('frontend.sections.protfolio.cta')
+</main>
 
 @endsection
