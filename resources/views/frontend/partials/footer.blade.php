@@ -3,7 +3,7 @@
         <div class="md:col-span-5">
           <a href="i{{ route('home') }}#home" class="flex items-center gap-2 mb-4">
             <span class="w-9 h-9 rounded-lg bg-acid text-ink font-display font-extrabold text-lg grid place-items-center">P</span>
-            <span class="font-display font-bold text-lg">pratap<span class="text-acid font-mono">.dev</span></span>
+            <span class="font-display font-bold text-lg">pratapdev<span class="text-acid font-mono">.in</span></span>
           </a>
           <p class="text-muted max-w-sm leading-relaxed">Laravel &amp; full-stack developer building scalable, secure and high-performance web applications.</p>
         </div>
