@@ -2,7 +2,7 @@
       <section class="max-w-7xl mx-auto px-5 sm:px-8 mb-24">
         <div class="grid lg:grid-cols-12 gap-8 items-start">
           <div class="lg:col-span-5 lg:sticky lg:top-28" data-reveal>
-            <span class="font-mono text-acid text-sm">03 / Design & Vastu</span>
+            <span class="font-mono text-acid text-sm">04 / Design & Vastu</span>
             <h2 class="font-display font-bold text-4xl mt-3">Samarth Residency</h2>
             <p class="text-muted mt-4 leading-relaxed">Samarth Residency is a modern residential real estate project website based in Parbhani, Maharashtra.</p>
             <div class="flex flex-wrap gap-2 mt-6">

@@ -2,7 +2,7 @@
       <section class="max-w-7xl mx-auto px-5 sm:px-8 mb-24">
         <div class="grid lg:grid-cols-12 gap-8 items-start">
           <div class="lg:col-span-5 lg:sticky lg:top-28" data-reveal>
-            <span class="font-mono text-acid text-sm">05 / Digital Visiting Card</span>
+            <span class="font-mono text-acid text-sm">04 / Digital Visiting Card</span>
             <h2 class="font-display font-bold text-4xl mt-3">Digital V Card</h2>
             <p class="text-muted mt-4 leading-relaxed">Digital Visiting Card is an online platform that allows professionals and businesses to replace traditional paper business cards with interactive, digital visiting cards.</p>
             <div class="flex flex-wrap gap-2 mt-6">

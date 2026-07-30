@@ -2,7 +2,7 @@
       <section class="max-w-7xl mx-auto px-5 sm:px-8 mb-24">
         <div class="grid lg:grid-cols-12 gap-8 items-start">
           <div class="lg:col-span-5 lg:sticky lg:top-28 lg:order-2" data-reveal>
-            <span class="font-mono text-acid text-sm">06 / CRM</span>
+            <span class="font-mono text-acid text-sm">05 / CRM</span>
             <h2 class="font-display font-bold text-4xl mt-3">WatiCRM</h2>
             <p class="text-muted mt-4 leading-relaxed">WatiCRM, developed by Genius IT Solutions, is a Windows-based desktop software designed for WhatsApp marketing, automation, and customer relationship management.</p>
             <div class="flex flex-wrap gap-2 mt-6">

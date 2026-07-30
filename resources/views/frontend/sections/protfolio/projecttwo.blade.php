@@ -2,7 +2,7 @@
       <section class="max-w-7xl mx-auto px-5 sm:px-8 mb-24">
         <div class="grid lg:grid-cols-12 gap-8 items-start">
           <div class="lg:col-span-5 lg:sticky lg:top-28 lg:order-2" data-reveal>
-            <span class="font-mono text-acid text-sm">02 / real estate platform</span>
+            <span class="font-mono text-acid text-sm">03 / real estate platform</span>
             <h2 class="font-display font-bold text-4xl mt-3">Merawazood</h2>
             <p class="text-muted mt-4 leading-relaxed">The platform allows individuals to earn money with zero initial investment by acting as referral partners. Instead of buying, selling, or negotiating properties themselves, users simply leverage their social network and connections to pass on property leads.</p>
             <div class="flex flex-wrap gap-2 mt-6">

@@ -1,10 +1,10 @@
-<!-- PROJECT 7 -->
+<!-- PROJECT 8 -->
       <section class="max-w-7xl mx-auto px-5 sm:px-8 mb-24">
         <div class="grid lg:grid-cols-12 gap-8 items-start">
-          <div class="lg:col-span-5 lg:sticky lg:top-28" data-reveal>
-            <span class="font-mono text-acid text-sm">06 / Genius IT Solution</span>
-            <h2 class="font-display font-bold text-4xl mt-3">IT Services</h2>
-            <p class="text-muted mt-4 leading-relaxed">Genius IT Solutions is a technology service provider that offers a diverse suite of digital marketing, software development, and IT management solutions.</p>
+          <div class="lg:col-span-5 lg:sticky lg:top-28 lg:order-2" data-reveal>
+            <span class="font-mono text-acid text-sm">01/ Wamigo</span>
+            <h2 class="font-display font-bold text-4xl mt-3">Wamigo</h2>
+            <p class="text-muted mt-4 leading-relaxed">Wamigo App by RM Services is a Meta API software platform designed for business communication, messaging, and automation.</p>
             <div class="flex flex-wrap gap-2 mt-6">
               <span class="tag px-3 py-1.5 rounded-full text-xs">Laravel</span>
               <span class="tag px-3 py-1.5 rounded-full text-xs">Jquery</span>
@@ -12,17 +12,17 @@
               <span class="tag px-3 py-1.5 rounded-full text-xs">Tailwind css</span>
               <span class="tag px-3 py-1.5 rounded-full text-xs">MySQL</span>
             </div>
-            <a href="https://geniusitsolution.com/" target="_blank" rel="noopener" class="btn-acid inline-flex items-center gap-2 px-6 py-3 rounded-full font-semibold mt-7" data-testid="project-svastam-link" data-cursor>Visit live
+            <a href="https://pratapdev.wamigo.in/business-console/dashboard" target="_blank" rel="noopener" class="btn-acid inline-flex items-center gap-2 px-6 py-3 rounded-full font-semibold mt-7" data-testid="project-svastam-link" data-cursor>Visit live
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M7 7h10v10"/></svg></a>
           </div>
-          <div class="lg:col-span-7" data-reveal>
+          <div class="lg:col-span-7 lg:order-1" data-reveal>
             <div class="panel overflow-hidden">
               <div class="flex items-center gap-3 px-4 py-3 border-b border-white/8">
                 <div class="flex gap-1.5 win-dots"><span style="background:#ff5f57"></span><span style="background:#febc2e"></span><span style="background:#28c840"></span></div>
-                <div class="flex-1 text-center font-mono text-[11px] text-muted truncate">geniusitsolution.com</div>
+                <div class="flex-1 text-center font-mono text-[11px] text-muted truncate">wamigo.in</div>
               </div>
               <div class="shot-frame" data-testid="project-svastam-shot">
-                <img src="{{asset('assets/Screenshot 2026-07-30 at 21-18-41 Home - Genius IT Solutions.png')}}" alt="">
+                <img src="{{asset('assets/Screenshot 2026-07-30 at 22-48-29 Dashboard Business Console.png')}}" alt="">
                 {{-- <div class="mock-page bg-gradient-to-b from-[#0f2018] to-[#0b0d10]">
                   <div><div class="flex justify-between items-center"><div class="w-28 h-4 rounded bg-acid/70"></div><div class="flex gap-2"><div class="w-12 h-3 mock-bar"></div><div class="w-12 h-3 mock-bar"></div></div></div></div>
                   <div><div class="w-3/4 h-9 rounded bg-white/20 mb-3"></div><div class="w-2/3 h-4 mock-bar mb-2"></div><div class="w-1/2 h-4 mock-bar"></div></div>

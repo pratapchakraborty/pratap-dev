@@ -2,7 +2,7 @@
       <section class="max-w-7xl mx-auto px-5 sm:px-8 mb-24">
         <div class="grid lg:grid-cols-12 gap-8 items-start">
           <div class="lg:col-span-5 lg:sticky lg:top-28 lg:order-2" data-reveal>
-            <span class="font-mono text-acid text-sm">08 / Zukenway Spa</span>
+            <span class="font-mono text-acid text-sm">07 / Zukenway Spa</span>
             <h2 class="font-display font-bold text-4xl mt-3">Zukenway Spa</h2>
             <p class="text-muted mt-4 leading-relaxed">A variety of full-body massage techniques designed for relaxation, stress relief, and physical recovery, including:</p>
             <div class="flex flex-wrap gap-2 mt-6">
