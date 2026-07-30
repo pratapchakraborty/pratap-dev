@@ -13,6 +13,14 @@
 
     @include('frontend.sections.protfolio.projectthree')
 
+    @include('frontend.sections.protfolio.projectfour')
+
+    @include('frontend.sections.protfolio.projectfive')
+
+    @include('frontend.sections.protfolio.projectsix')
+
+    @include('frontend.sections.protfolio.projectseven')
+
     @include('frontend.sections.protfolio.cta')
 </main>
 
