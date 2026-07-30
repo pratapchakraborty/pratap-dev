@@ -21,6 +21,8 @@
 
     @include('frontend.sections.protfolio.projectseven')
 
+    @include('frontend.sections.protfolio.projecteight')
+
     @include('frontend.sections.protfolio.cta')
 </main>
 
