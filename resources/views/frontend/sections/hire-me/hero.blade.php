@@ -22,7 +22,7 @@
   <div class="relative" data-reveal>
     <div class="absolute -inset-4 rounded-3xl bg-acid/10 blur-2xl"></div>
     <div class="relative rounded-3xl overflow-hidden border border-white/10 max-w-xs mx-auto">
-      <img src="{{ asset('assets/pratap.jpg') }}" alt="Pratap Chakraborty" class="w-full object-cover" />
+      <img src="{{ asset('assets/pratap.png') }}" alt="Pratap Chakraborty" class="w-full object-cover" />
     </div>
   </div>
 </section>

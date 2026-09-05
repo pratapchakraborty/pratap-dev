@@ -53,7 +53,7 @@
         <div class="absolute -inset-4 rounded-3xl bg-acid/10 blur-2xl"></div>
         <div class="relative rounded-3xl overflow-hidden border border-white/10 bg-ink2">
           <div class="hero-photo">
-            <img src="{{ asset('assets/hero.jpeg') }}" alt="Portrait of Pratap Chakraborty" class="w-full object-cover" data-testid="hero-photo" />
+            <img src="{{ asset('assets/pratap.png') }}" alt="Portrait of Pratap Chakraborty" class="w-full object-cover" data-testid="hero-photo" />
           </div>
           <div class="absolute inset-0 pointer-events-none" style="background:radial-gradient(circle at 50% 20%, transparent 40%, rgba(7,8,10,0.55) 100%)"></div>
         </div>
